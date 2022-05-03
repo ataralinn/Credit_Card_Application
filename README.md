@@ -1,0 +1,2 @@
+# Credit_Card_Application
+Created a Java Object Oriented Program application that allows a user to keep track of all credit card activity, such as payments, purchases, fees, and vendors. When a user is created they are asked to link their bank account to their app account so that payments can be made to their credit cards. The user can track a purchase, view previous purchases, view balances and remaining credit. We save all the information to a file so whenever the user returns (even after terminating and restarting the program), their info is always current.
